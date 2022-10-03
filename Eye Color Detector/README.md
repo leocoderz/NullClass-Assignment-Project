@@ -5,13 +5,13 @@ Simple Eye Color Detector using Machine Learning
 1. Clone this repository
 2. Run the [Eye detector model](https://github.com/natarajaiml/Eye-Color-detector/ed1.ipynb) file
 3. Upload the image you want to detect
-4. Click on detcet button
+4. Click on detect button
 5. View results
 
 ## Installation 
 #### Clone the project and install requirements
-    $ git clone https://github.com/natrajaiml/Eye-Color-Detection
-    $ cd Eye-Color-Detection
+    $ git clone https://github.com/natarajaiml/NullClass-Assignment-Project
+    $ cd NullClass-Assignment-Project
     $ sudo pip install -r requirements.txt
 
     [Note: if you have GPU change tensorflow to tensorflow-gpu in requirements.txt for fast processing]
