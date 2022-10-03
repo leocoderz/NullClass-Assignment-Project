@@ -3,7 +3,7 @@ Simple application to detect age and gender of a person using Machine Learning
 
 ## Steps to Run the Model:
 1. Clone this repository
-2. Run the [gui.py](https://github.com/natarajaiml/NullClass-Assignment-Project/blob/main/Age-and-Gender-Detector/gui.py) file
+2. Run the [gui.py](https://github.com/natarajaiml/NullClass-Assignment-Project/Age-and-Gender-Detector/gui.py) file
 3. Upload the image in which you want to detect by clicking on 'Upload an Image' button
 4. Click on 'Detect Image' button
 5. View the results
