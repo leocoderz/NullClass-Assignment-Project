@@ -21,12 +21,12 @@ Simple application to detect age and gender of a person using Machine Learning
 
 ## Few Sample Outputs:
 ### Sample Output 1:
-![Sample Output 1](https://github.com/Haidram/Age-and-Gender_Detector/blob/main/Sample_Output1.PNG)
+![Sample Output 1](https://github.com/natarajaiml/NullClass-Assignment-Project/blob/main/Age%20And%20Gender%20Detector/Sample_Output1.PNG)
 ### Sample Output 2:
-![Sample Output 2](https://github.com/Haidram/Age-and-Gender_Detector/blob/main/Sample_Output2.PNG)
+![Sample Output 2](https://github.com/natarajaiml/NullClass-Assignment-Project/blob/main/Age%20And%20Gender%20Detector/Sample_Output2.PNG)
 ### Sample Output 3:
-![Sample Output 3](https://github.com/Haidram/Age-and-Gender_Detector/blob/main/Sample_Output3.PNG)
+![Sample Output 3](https://github.com/natarajaiml/NullClass-Assignment-Project/blob/main/Age%20And%20Gender%20Detector/Sample_Output3.PNG)
 ### Sample Output 4:
-![Sample Output 4](https://github.com/Haidram/Age-and-Gender_Detector/blob/main/Sample_Output4.PNG)
+![Sample Output 4](https://github.com/natarajaiml/NullClass-Assignment-Project/blob/main/Age%20And%20Gender%20Detector/Sample_Output4.PNG)
 ### Sample Output 5:
-![Sample Output 5](https://github.com/Haidram/Age-and-Gender_Detector/blob/main/Sample_Output5.PNG)
+![Sample Output 5](https://github.com/natarajaiml/NullClass-Assignment-Project/blob/main/Age%20And%20Gender%20Detector/Sample_Output5.PNG)
