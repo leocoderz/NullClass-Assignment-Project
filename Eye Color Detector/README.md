@@ -12,7 +12,7 @@ Simple Hair And Eye Color Detector Project using Machine Learning
 1. Clone this repository.
 2. Download the Dataset from [here](https://www.kaggle.com/datasets/davidjfisher/illinois-doc-labeled-faces-dataset?select=person.csv).
 3. Extract the Dataset to your repository folder.
-4. Open the [Model Jupyter Notebook](https://github.com/praju1321/Hair_Eye_Color_Detector/blob/main/model.ipynb).
+4. Open the [Model Jupyter Notebook](https://github.com/natarajaiml/NullClass-Assignment-Project/blob/main/Eye%20Color%20Detector/model.ipynb).
 5. Run this Notebook
 6. Run the [gui.py](https://github.com/natarajaiml/NullClass-Assignment-Project/blob/main/Eye%20Color%20Detector/gui.py).
 7. Upload the Image you want to Detect.
